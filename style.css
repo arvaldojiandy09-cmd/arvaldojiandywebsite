@@ -915,3 +915,12 @@ body.light-mode button,
 body.light-mode .btn {
     color: #ffffff;
 }
+
+/* TEKS GALERI PKL MODE TERANG */
+body.light-mode .gallery h2,
+body.light-mode .gallery h3,
+body.light-mode .gallery p,
+body.light-mode .gallery .gallery-item h3,
+body.light-mode .gallery .gallery-item p {
+    color: #ffffff !important;
+}
