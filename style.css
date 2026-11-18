@@ -805,7 +805,7 @@ body {
             rgba(5, 10, 25, 0.85),
             rgba(5, 10, 25, 0.92)
         ),
-        url("Digital University/pemandangan.jpg");
+        url("https://i.imgur.com/GQKQUiQ.jpeg");
 
     background-size: cover;
     background-position: center;
@@ -826,7 +826,7 @@ body.light-mode {
             rgba(243, 246, 252, 0.35),
             rgba(243, 246, 252, 0.50)
         ),
-        url("Digital University/pemandangan.jpg");
+        url("https://i.imgur.com/GQKQUiQ.jpeg");
 
     background-size: cover;
     background-position: center;
